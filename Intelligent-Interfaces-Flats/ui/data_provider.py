@@ -7,7 +7,7 @@ from ui.processor import Processor
 
 class DataProvider:
     def __init__(self):
-        #data_file = pd.read_csv("/home/mukola/Projects/intelligent-interfaces-lab/Intelligent-Interfaces-lab-1/data/kyiv_flats_final.csv")
+        #data_file = pd.read_csv("/home/mukola/Projects/intelligent-interfaces-lab/Intelligent-Interfaces-Flats-lab-1/data/kyiv_flats_final.csv")
         data_file = pd.read_csv("data/kyiv_flats_final.csv")
         self.data = [data_file["total_area"].values, data_file["district_uk"].values, data_file["room_count"].values, data_file["subway_time"].values, data_file["quality"].values]
 
