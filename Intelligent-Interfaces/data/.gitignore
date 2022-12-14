@@ -1,0 +1,4 @@
+*.json
+*.csv
+!kyiv_city_fizz.csv
+!kyiv_flats_final.csv

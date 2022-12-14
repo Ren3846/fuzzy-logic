@@ -1,0 +1,434 @@
+total_area_fizz,district_uk_fizz,room_count_fizz,subway_time_fizz,quality_fizz,real_price_fizz
+very large,average,large,far away,average,low
+large,cool,small,far away,empty,low
+medium,average,small,far away,poor,very low
+medium,average,small,far away,poor,very low
+medium,cool,large,far away,average,low
+large,cool,large,far away,average,low
+medium,average,small,far away,empty,very low
+medium,cool,small,far away,empty,very low
+very large,very cool,small,far away,comfort,extremely high
+very large,cool,large,far away,empty,below medium
+large,average,small,far away,average,low
+small,cool,small,far away,comfort,below medium
+medium,cool,small,average,comfort,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+medium,average,small,average,average,low
+medium,very cool,small,far away,poor,low
+very large,average,large,far away,average,below medium
+large,cool,large,far away,average,low
+very large,average,large,far away,comfort,below medium
+medium,cool,small,average,poor,very low
+small,cool,large,far away,poor,above medium
+large,cool,small,average,poor,low
+large,average,small,average,poor,low
+medium,average,small,far away,average,low
+small,cool,large,average,average,medium
+medium,average,small,far away,average,very low
+very large,very cool,large,far away,empty,medium
+medium,very cool,large,far away,comfort,below medium
+small,cool,large,average,comfort,extremely high
+medium,average,small,far away,poor,very low
+large,cool,small,far away,comfort,low
+large,very cool,large,average,average,below medium
+large,cool,small,far away,empty,low
+medium,very cool,small,far away,comfort,low
+medium,average,small,far away,poor,very low
+medium,cool,small,far away,poor,low
+medium,average,small,far away,empty,very low
+very large,cool,large,average,empty,below medium
+medium,average,small,average,comfort,very low
+large,average,large,far away,comfort,low
+small,average,large,far away,comfort,below medium
+small,average,large,far away,comfort,above medium
+very large,average,small,far away,empty,low
+medium,cool,small,far away,poor,very low
+very large,cool,large,far away,poor,low
+medium,very cool,small,average,average,low
+very large,cool,large,far away,rich,below medium
+medium,very cool,small,far away,average,low
+medium,cool,small,far away,average,low
+very large,cool,small,far away,comfort,below medium
+large,cool,small,far away,comfort,low
+small,average,large,average,average,low
+large,very cool,small,average,average,below medium
+large,cool,large,far away,average,low
+very large,average,large,far away,average,low
+very large,average,small,far away,comfort,low
+medium,average,small,far away,rich,very low
+medium,average,small,far away,poor,very low
+small,average,large,far away,rich,extremely high
+large,very cool,small,far away,comfort,below medium
+medium,average,small,far away,comfort,low
+very large,average,large,far away,rich,above medium
+very large,cool,large,far away,comfort,low
+medium,average,small,far away,comfort,very low
+large,cool,small,average,average,low
+medium,cool,small,far away,poor,very low
+medium,cool,small,far away,empty,very low
+medium,average,small,far away,poor,very low
+medium,average,small,far away,poor,low
+large,average,small,far away,poor,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,comfort,low
+medium,cool,small,far away,comfort,low
+medium,average,small,average,poor,low
+medium,cool,small,far away,comfort,very low
+medium,cool,small,far away,rich,low
+medium,cool,small,far away,rich,low
+medium,average,small,average,poor,very low
+medium,cool,small,far away,poor,low
+large,cool,small,far away,poor,low
+small,cool,large,average,average,medium
+large,cool,small,far away,average,low
+large,cool,large,average,poor,very low
+medium,cool,small,average,poor,low
+large,cool,large,near,average,low
+large,cool,small,far away,poor,very low
+medium,cool,small,near,average,low
+small,very cool,large,far away,average,below medium
+small,cool,large,average,poor,extremely high
+medium,cool,small,near,average,very low
+medium,average,small,far away,poor,very low
+medium,average,large,far away,poor,very low
+very large,cool,large,far away,comfort,below medium
+very large,average,small,average,comfort,low
+small,very cool,large,far away,comfort,above medium
+medium,cool,small,far away,poor,very low
+medium,cool,small,average,poor,low
+very large,cool,large,far away,comfort,low
+small,very cool,large,far away,poor,above medium
+small,cool,large,far away,average,above medium
+small,cool,large,far away,comfort,below medium
+medium,average,small,average,average,very low
+medium,average,small,far away,poor,low
+large,average,small,far away,average,low
+small,cool,large,far away,poor,below medium
+large,cool,small,near,comfort,extremely high
+medium,average,small,average,average,low
+large,cool,small,average,comfort,below medium
+very large,cool,large,average,average,low
+very large,cool,large,far away,average,low
+medium,cool,small,far away,average,very low
+small,cool,large,far away,average,below medium
+large,cool,small,average,average,low
+medium,average,small,far away,comfort,very low
+medium,cool,small,average,average,low
+small,average,large,far away,average,medium
+medium,very cool,small,far away,poor,low
+large,average,small,far away,rich,below medium
+medium,average,small,far away,rich,low
+medium,cool,small,far away,average,very low
+large,average,large,far away,poor,very low
+small,cool,large,far away,comfort,medium
+large,average,large,far away,average,low
+medium,average,small,far away,average,very low
+medium,average,small,far away,average,very low
+small,average,large,far away,average,below medium
+very large,average,small,far away,poor,low
+very large,average,small,far away,average,below medium
+medium,average,small,far away,average,very low
+large,average,small,far away,average,below medium
+large,average,large,far away,average,low
+medium,average,small,far away,comfort,low
+very large,average,large,far away,average,low
+large,cool,small,far away,poor,below medium
+large,cool,small,far away,poor,low
+medium,cool,small,far away,poor,very low
+medium,cool,small,far away,poor,very low
+very large,cool,large,far away,poor,low
+medium,cool,small,far away,poor,low
+large,cool,small,far away,poor,low
+medium,cool,small,far away,poor,low
+medium,cool,small,far away,comfort,low
+medium,cool,small,far away,poor,very low
+medium,average,small,far away,poor,very low
+large,average,small,far away,poor,low
+medium,cool,large,average,poor,low
+very large,average,large,average,poor,low
+large,cool,small,far away,poor,low
+very large,average,large,far away,average,low
+small,very cool,large,far away,poor,high
+very large,average,large,far away,poor,low
+large,cool,large,far away,poor,very low
+small,cool,large,average,average,low
+large,cool,large,far away,poor,low
+very large,average,large,far away,average,low
+medium,cool,small,average,average,very low
+very large,cool,large,far away,comfort,low
+large,average,small,average,comfort,low
+medium,cool,small,far away,average,low
+medium,average,small,far away,average,low
+medium,cool,small,far away,poor,very low
+small,average,large,far away,comfort,low
+very large,cool,large,near,average,above medium
+medium,average,small,far away,average,very low
+very large,cool,small,average,poor,low
+medium,average,small,far away,poor,very low
+medium,average,small,far away,poor,very low
+medium,cool,small,average,comfort,low
+large,very cool,small,average,comfort,below medium
+very large,very cool,large,average,average,below medium
+medium,average,small,far away,average,low
+large,very cool,small,average,average,below medium
+large,very cool,small,average,comfort,below medium
+medium,very cool,large,far away,average,low
+small,cool,very large,far away,poor,low
+large,cool,large,far away,poor,low
+medium,cool,small,far away,average,low
+small,cool,very large,near,poor,above medium
+very large,cool,small,far away,comfort,medium
+medium,cool,small,far away,poor,low
+medium,cool,small,far away,average,low
+medium,cool,small,average,average,low
+very large,very cool,small,average,average,medium
+very large,cool,small,far away,comfort,below medium
+medium,cool,small,average,comfort,low
+medium,average,small,far away,average,very low
+medium,average,small,far away,average,very low
+medium,average,small,far away,comfort,low
+large,very cool,small,far away,average,low
+medium,cool,small,far away,poor,very low
+very large,cool,large,far away,average,low
+large,average,small,average,poor,low
+medium,cool,small,far away,average,very low
+medium,average,small,far away,poor,very low
+very large,very cool,large,average,average,above medium
+medium,very cool,small,far away,comfort,low
+small,cool,large,far away,average,below medium
+medium,average,small,far away,empty,very low
+very large,average,small,far away,average,low
+medium,average,small,near,average,very low
+medium,average,small,far away,average,low
+medium,cool,small,average,average,low
+small,cool,large,far away,poor,above medium
+small,cool,large,average,poor,extremely high
+large,cool,large,average,poor,low
+very large,very cool,small,near,poor,extremely high
+small,average,large,far away,average,low
+medium,cool,small,far away,poor,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+large,very cool,small,average,average,above medium
+large,very cool,small,near,average,medium
+very large,cool,large,far away,comfort,low
+small,cool,large,average,poor,above medium
+small,cool,large,average,average,extremely high
+medium,average,small,average,poor,very low
+large,cool,small,average,average,low
+large,average,large,far away,poor,very low
+large,cool,small,far away,poor,low
+large,cool,small,far away,poor,very low
+small,cool,large,far away,poor,medium
+large,cool,large,average,comfort,above medium
+very large,cool,small,average,comfort,high
+very large,cool,small,far away,poor,low
+large,cool,small,average,poor,low
+very large,cool,small,average,comfort,below medium
+small,cool,large,average,rich,medium
+very large,cool,large,far away,comfort,low
+large,average,small,far away,comfort,low
+small,very cool,large,near,average,medium
+large,very cool,small,average,comfort,below medium
+small,cool,large,far away,comfort,below medium
+large,average,small,average,poor,low
+small,cool,large,far away,average,below medium
+small,average,large,far away,comfort,above medium
+large,cool,small,far away,comfort,low
+large,average,small,average,average,below medium
+medium,cool,small,far away,average,low
+medium,very cool,small,average,average,below medium
+medium,average,small,average,comfort,low
+medium,average,small,average,comfort,low
+large,very cool,large,far away,average,low
+medium,cool,small,average,poor,very low
+medium,average,small,far away,average,low
+medium,average,small,far away,comfort,low
+medium,cool,small,average,average,low
+medium,cool,small,average,comfort,low
+very large,average,small,far away,poor,low
+medium,very cool,small,average,average,low
+medium,cool,small,far away,average,very low
+large,cool,large,far away,poor,low
+medium,average,small,far away,poor,very low
+medium,average,small,far away,average,low
+medium,cool,large,far away,poor,very low
+medium,cool,small,far away,average,very low
+medium,cool,small,far away,average,low
+large,cool,small,far away,average,low
+large,cool,large,far away,poor,very low
+medium,cool,small,far away,poor,low
+large,cool,small,far away,poor,low
+large,cool,small,far away,poor,below medium
+small,cool,large,far away,poor,above medium
+small,cool,large,far away,average,low
+very large,cool,large,average,poor,low
+small,cool,large,average,average,high
+small,cool,very large,far away,average,high
+medium,very cool,small,far away,average,low
+medium,very cool,small,average,average,low
+small,cool,large,far away,poor,above medium
+medium,average,small,far away,poor,very low
+very large,cool,large,far away,poor,low
+small,cool,large,far away,poor,below medium
+medium,cool,small,far away,average,very low
+medium,cool,small,far away,comfort,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+small,very cool,large,far away,comfort,extremely high
+medium,very cool,small,average,average,low
+very large,average,large,far away,comfort,below medium
+very large,very cool,large,far away,rich,high
+large,cool,small,near,average,below medium
+very large,cool,large,average,comfort,below medium
+large,average,small,far away,average,low
+large,average,small,far away,comfort,below medium
+very large,average,small,far away,comfort,below medium
+medium,average,small,far away,average,very low
+medium,cool,small,far away,average,very low
+medium,cool,small,average,poor,very low
+medium,average,small,far away,average,very low
+medium,average,small,average,average,very low
+very large,average,large,far away,poor,low
+medium,cool,small,far away,average,very low
+medium,cool,small,far away,average,very low
+medium,average,small,far away,poor,very low
+medium,very cool,large,far away,average,low
+very large,cool,large,far away,poor,low
+medium,very cool,small,far away,poor,low
+medium,cool,small,average,average,low
+very large,cool,small,far away,average,low
+very large,cool,small,average,average,below medium
+small,average,large,far away,average,low
+very large,very cool,large,average,average,low
+large,average,small,far away,average,low
+medium,cool,small,far away,poor,low
+very large,very cool,small,average,poor,low
+medium,average,small,far away,average,very low
+medium,cool,small,average,poor,very low
+very large,very cool,small,average,average,below medium
+very large,average,large,far away,average,low
+very large,average,large,near,average,low
+very large,very cool,small,average,poor,medium
+large,cool,small,far away,comfort,low
+very large,average,large,far away,poor,low
+very large,average,large,far away,average,below medium
+large,cool,large,far away,average,low
+very large,very cool,small,far away,average,high
+large,cool,small,far away,poor,low
+medium,cool,small,far away,poor,very low
+medium,cool,small,far away,average,very low
+medium,cool,small,far away,average,low
+medium,very cool,small,near,average,low
+medium,cool,small,near,average,very low
+large,average,large,far away,poor,low
+large,cool,small,far away,poor,low
+medium,cool,small,average,average,low
+large,cool,small,far away,comfort,low
+very large,cool,large,far away,poor,low
+small,cool,large,far away,average,low
+very large,average,large,far away,average,low
+medium,cool,small,near,poor,very low
+large,average,small,far away,average,low
+very large,very cool,small,far away,comfort,above medium
+very large,very cool,small,far away,average,above medium
+very large,cool,small,average,average,below medium
+medium,cool,small,average,average,low
+small,very cool,large,far away,average,medium
+medium,very cool,small,average,poor,low
+medium,very cool,small,far away,average,very low
+large,very cool,large,far away,poor,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+medium,cool,small,average,poor,low
+very large,average,small,average,average,below medium
+medium,average,small,average,poor,very low
+large,cool,small,average,average,low
+large,average,large,near,poor,very low
+very large,cool,large,far away,poor,medium
+small,very cool,large,far away,comfort,medium
+medium,cool,small,far away,comfort,below medium
+medium,very cool,small,average,average,low
+very large,very cool,small,far away,average,above medium
+small,cool,large,average,comfort,high
+small,very cool,large,average,comfort,high
+medium,average,small,far away,comfort,low
+medium,cool,small,far away,comfort,below medium
+small,very cool,large,far away,poor,above medium
+small,average,large,average,comfort,low
+large,cool,large,far away,comfort,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,low
+medium,cool,small,far away,average,very low
+medium,cool,small,far away,average,low
+medium,cool,small,average,comfort,low
+large,cool,small,near,comfort,below medium
+medium,very cool,small,far away,poor,low
+medium,cool,small,far away,poor,low
+large,cool,small,average,poor,low
+large,cool,small,far away,average,below medium
+large,cool,small,far away,poor,low
+large,average,small,far away,poor,low
+very large,cool,large,average,poor,below medium
+medium,average,small,far away,average,low
+very large,cool,large,average,average,below medium
+medium,average,small,far away,average,low
+large,average,small,far away,average,low
+medium,cool,small,average,average,low
+medium,cool,small,average,average,low
+large,cool,small,average,poor,low
+medium,cool,small,average,poor,low
+medium,cool,small,near,poor,low
+medium,cool,small,near,average,low
+medium,cool,small,average,average,very low
+medium,cool,small,far away,poor,very low
+medium,average,small,far away,poor,very low
+medium,average,small,far away,poor,very low
+large,average,large,far away,poor,very low
+small,average,large,far away,average,low
+medium,cool,small,far away,average,very low
+large,cool,large,far away,average,low
+medium,average,small,far away,average,very low
+very large,cool,large,far away,poor,low
+medium,average,small,far away,average,low
+very large,average,small,average,average,low
+very large,average,large,far away,average,low
+large,average,large,far away,average,low
+medium,average,small,far away,poor,very low
+large,cool,small,far away,poor,very low
+medium,average,small,far away,average,very low
+very large,average,small,average,average,low
+very large,very cool,small,far away,comfort,above medium
+very large,cool,large,average,average,below medium
+large,cool,small,far away,average,below medium
+very large,average,large,average,average,low
+large,cool,small,far away,average,low
+medium,cool,small,far away,poor,low
+very large,cool,small,far away,average,low
+medium,cool,small,far away,poor,very low
+small,cool,large,far away,average,below medium
+very large,cool,large,far away,average,low
+large,average,small,far away,average,below medium
+large,cool,small,average,average,low
+small,cool,small,far away,average,low
+large,average,small,far away,comfort,low
+medium,cool,small,far away,comfort,low
+medium,cool,small,far away,average,low
+medium,very cool,small,near,comfort,above medium
+very large,average,small,average,average,low
+medium,average,small,far away,poor,low
+large,cool,small,average,poor,below medium
+medium,average,small,far away,poor,very low
+small,cool,large,far away,poor,low
+medium,cool,small,far away,average,low
+small,cool,very large,far away,poor,medium
+small,cool,large,far away,comfort,low
+very large,cool,large,far away,poor,low
+small,cool,large,far away,comfort,above medium
+medium,very cool,small,average,comfort,low
+medium,cool,small,far away,average,very low
+medium,cool,small,average,average,very low
+very large,cool,large,far away,poor,medium
+medium,cool,small,average,average,very low
